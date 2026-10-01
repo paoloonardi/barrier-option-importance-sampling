@@ -1,6 +1,6 @@
 # Barrier Option Pricing with Importance Sampling
 
-![tests](https://github.com/USERNAME/barrier-option-importance-sampling/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/paoloonardi/barrier-option-importance-sampling/actions/workflows/tests.yml/badge.svg)
 
 Monte Carlo pricing of a **discretely monitored up-and-in put** under Black-Scholes, with a
 **two-phase drift-tilting importance sampling** scheme that cuts the standard error by ~6x
